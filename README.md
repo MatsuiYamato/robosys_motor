@@ -39,7 +39,7 @@
  * ダイオード
  
  # 実演動画
- https://youtu.be/KH6Zxg79mbg
+https://youtu.be/rSh_gzQ6-B4  
  
  # ライセンス
  　GNU General Public License ver3.0
