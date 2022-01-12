@@ -82,8 +82,7 @@ if(retval < 0){	printk(KERN_ERR "cdev_add failed. major:%d, minor:%d",MAJOR(dev)
 									
 return 0;}
 									
-static void __exit cleanup_mod(void)
-																							{
+static void __exit cleanup_mod(void) {
 cdev_del(&cdv);
 device_destroy(cls, dev);
 class_destroy(cls);
